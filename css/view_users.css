@@ -1,0 +1,44 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font: size 14px;
+  background-image: url(../images/4.jpg);
+  background-size: cover;
+  height: 60vh;
+ 
+
+    
+  }
+
+table{
+margin: auto;
+margin-top: 400px;
+
+}
+
+ .table {
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: large;
+    border: 2px solid;
+    width: 80%;
+    height: 80px;
+  }
+
+  th,td{
+
+    border: 2px solid;
+  }
+
+  th{
+
+    background-color: orange;
+  }
+
+  a{
+    color: orange;
+  }
+
+  .table {
+    border-collapse: collapse;
+  }
